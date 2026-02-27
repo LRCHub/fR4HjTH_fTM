@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "The Long And Winding Road (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-02-27T13:43:27.688033Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Long And Winding Road (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_The_Long_And_Winding_Road_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Long And Winding Road (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_The_Long_And_Winding_Road_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Long And Winding Road (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_The_Long_And_Winding_Road_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Long And Winding Road (Remastered)",
+      "artist": "Wings",
+      "has_synced": true,
+      "path": "select/04_The_Long_And_Winding_Road_(Remastered)_Wings.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Long And Winding Road - Remastered 2015",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_The_Long_And_Winding_Road_-_Remastered_2015_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Long And Winding Road (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_The_Long_And_Winding_Road_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Long And Winding Road - Remastered 2009",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/07_The_Long_And_Winding_Road_-_Remastered_2009_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Long And Winding Road - Remastered 2015",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_The_Long_And_Winding_Road_-_Remastered_2015_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Long And Winding Road (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_The_Long_And_Winding_Road_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Long And Winding Road (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_The_Long_And_Winding_Road_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Long And Winding Road - Remastered",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_The_Long_And_Winding_Road_-_Remastered_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Long And Winding Road (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_The_Long_And_Winding_Road_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Long And Winding Road (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_The_Long_And_Winding_Road_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Long And Winding Road - Remastered",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_The_Long_And_Winding_Road_-_Remastered_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Long And Winding Road (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/15_The_Long_And_Winding_Road_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Long And Winding Road (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/16_The_Long_And_Winding_Road_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Long And Winding Road - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/17_The_Long_And_Winding_Road_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Long and Winding Road",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_The_Long_and_Winding_Road_The_Beatles.txt"
+    }
+  ]
+}
